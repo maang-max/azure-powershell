@@ -1,4 +1,4 @@
-You can save money on operating expenses by shutting down the Application Gateway when it's not needed.
+You can save money on operating expenses by shutting down the Application Gateway in Azure when it's not needed.
 
 The gateway's ability to start and stop makes better resource management possible.
 
